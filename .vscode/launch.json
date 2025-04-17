@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Core Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/bin/Debug/net9.0/NewTextRPGHomwork.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "externalTerminal"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/t2023-m0131/Desktop/PKT/Homwork/NewTextRPGHomwork",
+      "program": "/Users/t2023-m0131/Desktop/PKT/Homwork/NewTextRPGHomwork/build/Debug/outDebug"
+    }
+  ]
+}
